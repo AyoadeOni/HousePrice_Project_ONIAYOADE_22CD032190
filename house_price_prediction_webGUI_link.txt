@@ -3,4 +3,5 @@ Matric Number: 22CD032190
 Machine Learning Algorithm Used: Linear Regression
 Model Persistence Method: Joblib
 Live URL: http://127.0.0.1:5000/
-GitHub Repository: https://github.com/AyoadeOni/HousePrice_Prediction_Project_ONIAYOADE_22CD032190
+GitHub Repository: https://github.com/AyoadeOni/HousePrice_Project_ONIAYOADE_22CD032190
+
